@@ -1,9 +1,9 @@
-# njakonkalwa.github.io
-
-blurgle hoggin man
-
 Witam w witrynie Njakonkalwy!
 
-https://njakonkalwa.github.io/callistal-map/ - map
+[wiki](https://nikkuz.miraheze.org/wiki/Callistal_Directory)
 
-https://njakonkalwa.github.io/callistal-battle-sim/ - battle simulator (not working rn)
+[map](https://njakonkalwa.github.io/callistal-map/)
+
+[battle sim (not functional)](https://njakonkalwa.github.io/callistal-battle-sim/)
+
+callistal.aternos.me - minecraft server (1.21.5 Java only!)
